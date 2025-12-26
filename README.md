@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Thimira Thathsarana</h1>
 <p align="center"> <img src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif" alt="_mr_timi" width="400" /></p>
-<h3 align="center"> As a FiveM UI/UX Engineer, I specialize in designing and developing immersive, user-friendly, and visually striking interfaces for roleplay and gaming servers. My focus is on creating seamless user experiences that enhance player engagement — from loading screens and in-game menus to inventory systems, HUDs, and custom dashboards. </h3>
+<h3 align="center"> As a FiveM UI/UX Engineer, I specialize in designing and developing immersive, user-friendly, and visually striking interfaces for roleplay and gaming servers. My focus is on creating seamless user experiences that enhance player engagement — from loading screens and in-game menus to inventory systems, HUDs,LIBS and custom dashboards. </h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=thimirat&label=Profile%20views&color=0e75b6&style=flat" alt="thimirat" /> </p>
 
